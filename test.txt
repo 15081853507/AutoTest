@@ -1,3 +1,7 @@
 hello git
 
-这是要合并的内容
+看着吧
+
+youba
+
+新建的mergedeno内容
